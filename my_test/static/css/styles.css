@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Marvin Visions';
+    src: url('/static/font/MarvinVisions-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+h2 {
+    font-family: 'Marvin Visions', sans-serif;
+    font-size: 3rem !important;
+    line-height: 1;
+    
+}
+
+.mystyles {
+    font-family: 'Marvin Visions', sans-serif;
+}
+
+.avatar img {
+    height: 100% !important;
+    width: 100% !important;
+
+    object-fit: cover;
+}

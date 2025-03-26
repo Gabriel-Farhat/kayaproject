@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Marvin Visions';
+    src: url('../fonts/MarvinVisionsVariable.woff2') format('woff2'),
+         url('../fonts/MarvinVisionsVariable.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-family: 'Marvin Visions', sans-serif;
+}
